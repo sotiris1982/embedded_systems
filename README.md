@@ -1,6 +1,6 @@
 # embedded_systems
 
-## Data Sample Design and Average Value of Samples Taken
+## Data Acquisition Design and Average Value of Samples Taken
 Aim
 The purpose of this project is to design a data acquisition to processes an array of data and by manipulating the input through different circuit designs to output the average of the samples.
 
